@@ -34,6 +34,8 @@ The project follows a rigorous scientific workflow:
 
   To run this project, you will need to install the following Python libraries:
 
-  pip install yfinance pandas numpy matplotlib seaborn scipy
-
+ 
+```
+ pip install yfinance pandas numpy matplotlib seaborn scipy
+```
 ---
